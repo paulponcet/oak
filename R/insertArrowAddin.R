@@ -1,0 +1,6 @@
+
+insertArrowAddin <- 
+function() 
+{
+  rstudioapi::insertText(" %->% ")
+}

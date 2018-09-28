@@ -1,0 +1,4 @@
+Name: Insert %->%
+Description: Inserts the arrow %->% to create chained trees easily
+Binding: insertArrowAddin
+Interactive: false
