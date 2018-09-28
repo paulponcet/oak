@@ -1,6 +1,6 @@
 Package: oak
 Type: Package
-Title: Trees creation and manipulation
+Title: Trees Creation and Manipulation
 Version: 0.2.0
 Date: 2018-09-22
 Authors@R: person("Paul", "Poncet", , "paulponcet@yahoo.fr", role = c("aut", "cre"))
