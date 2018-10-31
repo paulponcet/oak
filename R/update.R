@@ -2,7 +2,7 @@
 #' Update a tree with new subtrees
 #' 
 #' @description 
-#' BLA BLA
+#' Update a tree with new subtrees
 #' 
 #' @param object
 #' A tree to be updated. 

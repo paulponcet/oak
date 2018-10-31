@@ -22,7 +22,7 @@ roots(.tree)
 \code{root} returns a node, the root of the tree if it exists;  
 if \code{.tree} is not rooted, an error is thrown.  
 
-\code{roots} returns a list of node, the roots of the tree.
+\code{roots} returns a list of nodes, the roots of the tree.
 }
 \description{
 Find the root of a tree 

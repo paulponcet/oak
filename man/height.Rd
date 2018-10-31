@@ -16,7 +16,7 @@ height(x) <- value
 \item{.tree, x}{A tree.}
 
 \item{value}{integer. Height to assign to the tree \code{x} 
-(this calls the function \code{\link[ginkgo]{prune}}).}
+(this calls the function \code{\link[oak]{prune}}).}
 }
 \value{
 An integer.

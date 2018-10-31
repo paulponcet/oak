@@ -4,7 +4,6 @@
 \name{reexports}
 \alias{reexports}
 \alias{is.empty}
-\alias{reexports}
 \alias{update}
 \title{Objects exported from other packages}
 \keyword{internal}

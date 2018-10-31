@@ -25,5 +25,5 @@ and displays the connections between these nodes.
 }
 \seealso{
 For examples using the \code{at} argument, 
-see \code{\link[ginkgo]{tree_apply}}.
+see \code{\link[oak]{tree_apply}}.
 }

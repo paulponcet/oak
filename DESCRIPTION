@@ -1,8 +1,8 @@
 Package: oak
 Type: Package
 Title: Trees Creation and Manipulation
-Version: 0.2.0
-Date: 2018-09-22
+Version: 0.2.1
+Date: 2018-10-31
 Authors@R: person("Paul", "Poncet", , "paulponcet@yahoo.fr", role = c("aut", "cre"))
 Description: Functions and classes to create and manipulate trees and nodes.
 License: MIT + file LICENSE
@@ -22,4 +22,4 @@ Suggests:
     testthat
 URL: https://github.com/paulponcet/oak
 BugReports: https://github.com/paulponcet/oak/issues
-RoxygenNote: 6.0.1
+RoxygenNote: 6.1.0

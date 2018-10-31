@@ -22,7 +22,7 @@
 #' \code{x} is return invisibly. 
 #' 
 #' @seealso For examples using the \code{at} argument, 
-#' see \code{\link[ginkgo]{tree_apply}}. 
+#' see \code{\link[oak]{tree_apply}}. 
 #' 
 #' @export
 #' 

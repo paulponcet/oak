@@ -15,5 +15,5 @@
 node of the tree.}
 }
 \description{
-BLA BLA
+Update a tree with new subtrees
 }
